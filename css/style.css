@@ -1263,3 +1263,9 @@ footer .logo a:hover {
   white-space: nowrap;
   animation: typing 2s steps(40, end) infinite;
 }
+
+.developer_name{
+  display:inline-block;
+  color: var(--main-color) !important;
+  font-style:italic;
+}
